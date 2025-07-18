@@ -24,9 +24,4 @@ This project can be used by small to mid-size retailers or analysts working in t
 - Make restocking decisions
 - Identify high/low performing items
 
-## 🚀 Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/retail-inventory-analysis.git
-   cd retail-inventory-analysis
+🔗 **Live Dashboard Code**: [GitHub Repo](https://github.com/Gauri-dsml23/retail-inventory-analysis)
