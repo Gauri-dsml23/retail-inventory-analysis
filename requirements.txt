@@ -1,0 +1,7 @@
+# For Flask app
+flask
+pandas
+
+# OR for Streamlit app
+streamlit
+pandas
